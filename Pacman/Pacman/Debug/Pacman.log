@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\view.h(8): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\view.h(11): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\view.h(14): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\view.h(17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(58): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(59): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(69): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(77): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(150): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(171): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(187): warning C4305: =: усечение из "double" к "float"
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(188): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(194): warning C4305: =: усечение из "double" к "float"
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(195): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(201): warning C4305: =: усечение из "double" к "float"
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(202): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(209): warning C4305: =: усечение из "double" к "float"
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(210): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\cralynx\desktop\pacman\code\pacman\pacman\main.cpp(235): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Pacman.vcxproj -> C:\Users\CraLynx\Desktop\PACMAN\CODE\Pacman\Debug\Pacman.exe
+  Pacman.vcxproj -> C:\Users\CraLynx\Desktop\PACMAN\CODE\Pacman\Debug\Pacman.pdb (Partial PDB)
